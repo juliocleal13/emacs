@@ -138,6 +138,9 @@ by Prelude.")
 (prelude-require-package 'dashboard)
 ;; end dashboard package
 
+;; terraform mode
+(prelude-require-package 'terraform-mode)
+;; end terraform mode
 ;; Linux specific settings
 (when (eq system-type 'gnu/linux)
   (require 'prelude-linux))
