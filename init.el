@@ -118,6 +118,26 @@ by Prelude.")
 (when (eq system-type 'darwin)
   (require 'prelude-macos))
 
+;; modules
+(require 'prelude-vertico)
+(require 'prelude-ivy)
+(require 'prelude-company)
+(require 'prelude-org)
+(require 'prelude-lsp)
+(require 'prelude-clojure)
+(require 'prelude-yaml)
+(require 'prelude-key-chord)
+;; end modules
+
+;; clojure dependencies
+(prelude-require-package 'paredit)
+(prelude-require-package 'parseedn)
+;; end clojure dependencies
+
+;; dashboard package
+(prelude-require-package 'dashboard)
+;; end dashboard package
+
 ;; Linux specific settings
 (when (eq system-type 'gnu/linux)
   (require 'prelude-linux))
