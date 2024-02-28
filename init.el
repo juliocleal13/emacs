@@ -142,6 +142,20 @@ by Prelude.")
 (prelude-require-package 'terraform-mode)
 ;; end terraform mode
 
+;; ellama to ai nubank
+(prelude-require-package 'ellama)
+(prelude-require-package 'plz)
+;; ends ellama
+
+;; ripgrep
+(prelude-require-package 'ripgrep)
+(prelude-require-package 'projectile-ripgrep)
+;; end ripgrep
+
+;;fzf
+(prelude-require-package 'fzf)
+;;end fzf
+
 ;; Linux specific settings
 (when (eq system-type 'gnu/linux)
   (require 'prelude-linux))

@@ -1,0 +1,59 @@
+** User:
+hi
+
+** Ellama:
+Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?
+
+** User:
+how to make a code review?
+** User:
+how to make a code review?
+
+** Ellama:
+Here are some steps you can follow to conduct a code review:
+
+1. Start by reading the code: Before diving into the review process,
+take some time to read through the code and understand what it
+does. This will help you identify any potential issues or areas that
+require further examination.
+2. Identify the purpose of the code review: Determine why you are
+conducting the code review. Is it to catch bugs or security
+vulnerabilities? Are you trying to improve the code's maintainability,
+readability, or performance? Knowing the purpose of the review will
+help guide your process.
+3. Gather information: Collect any relevant information about the code
+and the system it is a part of. This may include the code's
+functionality, the environment it runs in, and any dependencies it
+has.
+4. Use a checklist or rubric: Create a checklist or rubric to guide
+your review. This can help you stay organized and ensure that you
+cover all aspects of the code. Some common things to include in a code
+review checklist are:
+	* Syntax and grammar errors
+	* Code organization and structure
+	* Comments and documentation
+	* Security vulnerabilities
+	* Performance issues
+	* Compatibility with different environments or platforms
+5. Review the code line by line: Start reviewing the code line by
+line, using your checklist or rubric as a guide. Look for any errors,
+inconsistencies, or areas that could be improved.
+6. Ask questions and provide feedback: As you review the code, if you
+have questions or concerns, don't hesitate to ask the developer or
+team lead for clarification. Provide constructive feedback on how the
+code can be improved, and suggest any changes you think would make it
+better.
+7. Verify fixes: Once the developer has made the requested changes,
+review the updated code again to ensure that the issues have been
+resolved.
+8. Document your findings: Keep a record of your findings and
+recommendations for future reference. This can help the developer or
+team learn from the review and improve their coding practices over
+time.
+9. Follow up: After the code review, follow up with the developer or
+team to ensure that any issues have been resolved and that the code is
+ready for deployment.
+
+By following these steps, you can conduct a thorough and effective
+code review that helps improve the quality and reliability of the
+codebase.

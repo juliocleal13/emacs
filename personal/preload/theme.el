@@ -7,7 +7,7 @@
                                         ;modus-themes-preset-overrides-intense
       modus-themes-disable-other-themes t
       modus-vivendi-tinted-palette-overrides '((bg-mode-line-active bg-magenta-nuanced)
-                                               (border-mode-line-active bg-magenta-nuanced )
+                                               (border-mode-line-active br-magenta-nuanced)
                                                (bg-mode-line-inactive bg-inactive)
                                                (border-mode-line-inactive bg-inactive)
                                                (cursor fg-alt)
