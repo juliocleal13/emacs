@@ -156,6 +156,15 @@ by Prelude.")
 (prelude-require-package 'fzf)
 ;;end fzf
 
+;;tree-sitter
+(prelude-require-package 'tree-sitter)
+(prelude-require-package 'tree-sitter-langs)
+;;end tree-sitter
+
+;;python
+
+;;end python
+
 ;; Linux specific settings
 (when (eq system-type 'gnu/linux)
   (require 'prelude-linux))

@@ -1,1 +1,0 @@
-#s(ellama-session "Query: How does photosynthesis work in plants? (zephyr:7b-beta-q6_K)" #s(llm-ollama "http" "localhost" 11434 "zephyr:7b-beta-q6_K" "zephyr:7b-beta-q6_K") "/Users/julio.leal/.emacs.d/ellama-sessions/Query: How does photosynthesis work in plants? (zephyr:7b-beta-q6_K).org" #s(llm-chat-prompt nil nil (#s(llm-chat-prompt-interaction user "aaaa")) nil nil) nil)
