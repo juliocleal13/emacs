@@ -161,9 +161,10 @@ by Prelude.")
 (prelude-require-package 'tree-sitter-langs)
 ;;end tree-sitter
 
-;;python
-
-;;end python
+;; golang
+(prelude-require-package 'go-mode)
+(prelude-require-package 'realgud)
+;; endgolang
 
 ;; Linux specific settings
 (when (eq system-type 'gnu/linux)
